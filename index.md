@@ -8,4 +8,4 @@ author: null
 show_tile: false
 ---
 
-I'm a Senior in Electrical Engineering with a minor in COmputer Engineering at Penn State. I enjoy circuit design, PCBs, and my own personal projects - check them out below!
+I'm a Senior in Electrical Engineering with a minor in Computer Engineering at Penn State. I enjoy circuit design, PCBs, and building my own personal projects - check them out below!
