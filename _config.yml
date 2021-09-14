@@ -15,7 +15,7 @@ phone: (412) 706-0351
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
-tiles-count: 6
+tiles-count: 3
 
 # social settings (key must match name of font awesome icon)
 # see https://fontawesome.com/icons?d=gallery&p=2&s=brands
@@ -42,5 +42,5 @@ exclude:
 - LICENSE.md
 - CONTRIBUTING.md
 - README.md 
-- elements-Copy.md
-- landing-Copy.md
+- "reference_md/elements-Copy.md"
+- "reference_md/landing-Copy.md"
