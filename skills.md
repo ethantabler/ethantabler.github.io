@@ -21,33 +21,33 @@ nav-menu: true
 <div class="row">
 	<div class="6u 12u$(small)">
 		<h3>Circuit & PCB Design</h3>
-		<p>Nunc lacinia ante nunc ac lobortis. Interdum adipiscing gravida odio porttitor sem non mi integer non faucibus ornare mi ut ante amet placerat aliquet. Volutpat commodo eu sed ante lacinia. Sapien a lorem in integer ornare praesent commodo adipiscing arcu in massa commodo lorem accumsan at odio massa ac ac. Semper adipiscing varius montes viverra nibh in adipiscing blandit tempus accumsan.</p>
+		<p>Much of my experience is hardware-based, which typically involves circuits! I have experience in design softwares such as EAGLE, KiCad, and Altium for both schematic and PCB designs.</p>
 	</div>
 	<div class="6u$ 12u$(small)">
 		<h3>Microcontrollers</h3>
-		<p>In arcu accumsan arcu adipiscing accumsan orci ac. Felis id enim aliquet. Accumsan ac integer lobortis commodo ornare aliquet accumsan erat tempus amet porttitor. Ante commodo blandit adipiscing integer semper orci eget. Faucibus commodo adipiscing mi eu nullam accumsan morbi arcu ornare odio mi adipiscing nascetur lacus ac interdum morbi accumsan vis mi accumsan ac praesent.</p>
+		<p>Arduino, ESP32/ESP8266, ARM Cortex-M0, and Raspberry Pi Pico boards are all development boards I have used in the past for either school projects or my own designs.</p>
 	</div>
 	<!-- Break -->
 	<div class="6u 12u$(small)">
 		<h3>Leadership & Teamwork</h3>
-		<p>Nunc lacinia ante nunc ac lobortis. Interdum adipiscing gravida odio porttitor sem non mi integer non faucibus ornare mi ut ante amet placerat aliquet. Volutpat commodo eu sed ante lacinia. Sapien a lorem in integer ornare praesent commodo adipiscing arcu in massa commodo lorem accumsan at odio massa ac ac. Semper adipiscing varius montes viverra nibh in adipiscing blandit tempus accumsan.</p>
+		<p>I have led multiple projects as the Projects Exec of the Penn State IEEE Chapter (2020-21) in the form of technical workshops for other EECS students. In addition, I have experience working alongside a committee developing said projects under other leadership.</p>
 	</div>
 	<div class="6u$ 12u$(small)">
 		<h3>CAD and 3D Printing</h3>
-		<p>In arcu accumsan arcu adipiscing accumsan orci ac. Felis id enim aliquet. Accumsan ac integer lobortis commodo ornare aliquet accumsan erat tempus amet porttitor. Ante commodo blandit adipiscing integer semper orci eget. Faucibus commodo adipiscing mi eu nullam accumsan morbi arcu ornare odio mi adipiscing nascetur lacus ac interdum morbi accumsan vis mi accumsan ac praesent.</p>
+		<p>Placeholder</p>
 	</div>
 	<!-- Break -->
 	<div class="4u 12u$(medium)">
 		<h3>Python & MicroPython</h3>
-		<p>Nunc lacinia ante nunc ac lobortis. Interdum adipiscing gravida odio porttitor sem non mi integer non faucibus ornare mi ut ante amet placerat aliquet. Volutpat eu sed ante lacinia sapien lorem accumsan varius montes viverra nibh in adipiscing blandit tempus accumsan.</p>
+		<p>Placeholder</p>
 	</div>
 	<div class="4u 12u$(medium)">
 		<h3>RF Systems</h3>
-		<p>Nunc lacinia ante nunc ac lobortis. Interdum adipiscing gravida odio porttitor sem non mi integer non faucibus ornare mi ut ante amet placerat aliquet. Volutpat eu sed ante lacinia sapien lorem accumsan varius montes viverra nibh in adipiscing blandit tempus accumsan.</p>
+		<p>Research</p>
 	</div>
 	<div class="4u$ 12u$(medium)">
 		<h3>Building-Scale Electrical</h3>
-		<p>Nunc lacinia ante nunc ac lobortis. Interdum adipiscing gravida odio porttitor sem non mi integer non faucibus ornare mi ut ante amet placerat aliquet. Volutpat eu sed ante lacinia sapien lorem accumsan varius montes viverra nibh in adipiscing blandit tempus accumsan.</p>
+		<p>Revit</p>
 	</div>
 </div>
 

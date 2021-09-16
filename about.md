@@ -1,7 +1,7 @@
 ---
 title: About Me
 layout: landing
-description: 'WIP'
+description: 'A brief background'
 image: assets/images/pic07.jpg
 nav-menu: true
 ---
@@ -13,9 +13,9 @@ nav-menu: true
 <section id="one">
 	<div class="inner">
 		<header class="major">
-			<h2>Temporary header</h2>
+			<h2>Electrical Engineering - Computer Engineering Minor</h2>
 		</header>
-		<p>Please come back soon for more info!</p>
+		<p>PSU Class of 2021 (Fall)</p>
 	</div>
 </section>
 
